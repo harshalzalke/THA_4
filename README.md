@@ -14,10 +14,13 @@ The dependent variable is Number of Terrorist Incidents and independent variable
 The research collects the following independent variables:
 
 a) Economic Freedom Index: Economic Freedom is defined as the ability of an individual to hold labor/property. This dataset consists of the Economic Freedom score for countries in the year 2017.
+
 Source – The Heritage Foundation
-Filename – economic_freedom_2017.csv
+Filename – **economic_freedom_2017.csv**
 
 b) Terrorism Incidents: This is the data on terrorist incidents in every countries. We look at the number of terrorist incidents in a country in the year 2017.
+
 Source – Our World in Data – This website compiles datasets for research purpose. One such dataset was a terrorism dataset.
-	Filename – terrorist-incidents.csv
+Filename – **terrorist-incidents.csv**
+
 The two datasets are merged in a single dataframe that contains Country name, Economic Score and Terrorist incidents. The final dataset is titles **dataf**
