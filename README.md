@@ -33,5 +33,9 @@ The two datasets are merged in a single dataframe that contains Country name, Ec
 
 **terrorist-incidents.csv** - Dataset for number of terrorist incident in each country.
 
+**dataf.csv** - Final compiled dataset consisting of Country, Economic Score and Number of terrorist Incidents.
+
+
+
 
 
