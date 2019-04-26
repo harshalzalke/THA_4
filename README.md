@@ -31,6 +31,12 @@ The two datasets are merged in a single dataframe that contains Country name, Ec
 
 **economic_freedom_2017** - Dataset for economic freedom score.
 
+**R_Code.R** - Code for the data analysis.
+
+**Workflow.docx** - Shows the workflow of the researach.
+
+
+
 **terrorist-incidents.csv** - Dataset for number of terrorist incident in each country.
 
 **dataf.csv** - Final compiled dataset consisting of Country, Economic Score and Number of terrorist Incidents.
