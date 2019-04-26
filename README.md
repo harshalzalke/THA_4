@@ -41,6 +41,8 @@ The two datasets are merged in a single dataframe that contains Country name, Ec
 
 **dataf.csv** - Final compiled dataset consisting of Country, Economic Score and Number of terrorist Incidents.
 
+**THA4_Research_Question_and_Datasource** - Specifies the Research Question, Datasets and reports the subsequent analysis, results and conclusion.
+
 
 
 
