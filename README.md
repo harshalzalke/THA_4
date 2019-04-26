@@ -25,7 +25,7 @@ Source – Our World in Data – This website compiles datasets for research pur
 
 Filename – **terrorist-incidents.csv**
 
-The two datasets are merged in a single dataframe that contains Country name, Economic Score and Terrorist incidents. The final dataset is titles **dataf**
+The two datasets are merged in a single dataframe that contains Country name, Economic Score and Terrorist incidents. The final dataset is titles **dataf.csv**
 
 **Files**
 
