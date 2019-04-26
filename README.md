@@ -26,3 +26,12 @@ Source – Our World in Data – This website compiles datasets for research pur
 Filename – **terrorist-incidents.csv**
 
 The two datasets are merged in a single dataframe that contains Country name, Economic Score and Terrorist incidents. The final dataset is titles **dataf**
+
+**Files**
+
+**economic_freedom_2017** - Dataset for economic freedom score.
+
+**terrorist-incidents.csv** - Dataset for number of terrorist incident in each country.
+
+
+
