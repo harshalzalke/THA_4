@@ -38,6 +38,7 @@ dataf = cbind(data[,1],data_t)
 View(dataf)
 names(dataf)[1] = "Country"
 View(dataf)
+write.csv(dataf, "dataf.csv")
 
 plot(dataf$Incident)
 plot(dataf$Score_2017)
